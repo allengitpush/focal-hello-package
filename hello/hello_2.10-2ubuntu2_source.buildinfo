@@ -4,14 +4,14 @@ Binary: hello
 Architecture: source
 Version: 2.10-2ubuntu2
 Checksums-Md5:
- 0e7ea364ca8ad7a379be96ecc0ac030a 927 hello_2.10-2ubuntu2.dsc
+ 4c19c6ebf466166f37b1651d80b3dbcc 927 hello_2.10-2ubuntu2.dsc
 Checksums-Sha1:
- 31819018fb472517b80b444342706158c04bc0a9 927 hello_2.10-2ubuntu2.dsc
+ a2b4a92c5b3edd7d4ce12b2a1ed1f494eca35406 927 hello_2.10-2ubuntu2.dsc
 Checksums-Sha256:
- d0edfbc192c06642feb9d3e3e97ba7865d89f542dd7961cc2f9f9453ba541d6e 927 hello_2.10-2ubuntu2.dsc
+ f92dc23f07d901f685ec9c2e44517227ec57cbf84e28323e48bc29b83a32d472 927 hello_2.10-2ubuntu2.dsc
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 13 Feb 2023 21:41:24 +0800
+Build-Date: Mon, 13 Feb 2023 21:56:06 +0800
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-includes
