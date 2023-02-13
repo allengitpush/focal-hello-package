@@ -4,7 +4,11 @@ debian packaging practice
 Prequisite
 
 sudo apt install build-essential fakeroot devscripts git git-buildpackage debhelper debmake lintian pbuilder
+
 sudo apt install ubuntu-dev-tools
+
+
+
 
 A. To get and modify package
 
