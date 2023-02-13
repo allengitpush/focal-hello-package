@@ -26,7 +26,7 @@ sudo pbuilder create --distribution focal
 
 A-3. put maintainner script in debian folder
 
-cp postinst mydeb/DEBIAN
+cp postinst hello-2.10/debian
 
 
 A-4 to pack maintainer scripts into hello_2.10-2ubuntu2.debian.tar.xz
