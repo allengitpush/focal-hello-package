@@ -25,7 +25,12 @@ A-3. put maintainner script in debian folder
 cp postinst mydeb/DEBIAN
 
 
-A-3. cd to the hello folder then build, use gernerated base.tgz as base and the result gererated at specified location
+A-4 to pack maintainer scripts into hello_2.10-2ubuntu2.debian.tar.xz
+
+dpkg-buildpackage --no-sign  -S -sa -rfakeroot
+
+
+A-5. cd to the hello folder then build, use gernerated base.tgz as base and the result is gererated at specified location
 
 sudo pbuilder build --basetgz /var/cache/pbuilder/base.tgz --buildresult /home/allen/pbuilder/focal_result/ ../hello_2/hello_2.10-2ubuntu2.dsc
 
