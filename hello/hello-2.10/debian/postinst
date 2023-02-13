@@ -1,7 +1,9 @@
 #!/bin/sh
 set -e
 
-echo "this is a test from Allen Chang"
+#echo "this is a test from Allen Chang"
+
+/usr/bin/testing.sh
 
 #DEBHELPER#
 

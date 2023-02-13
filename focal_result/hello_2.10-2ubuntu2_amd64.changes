@@ -15,21 +15,21 @@ Changes:
  .
    * Handle exit code 77 for skipped autopkgtests.
 Checksums-Sha1:
- d8f24f475ecdf3d4ec5f716a0edf0158a363d2bc 927 hello_2.10-2ubuntu2.dsc
- 242402bd208c6005acd9465b8dbd0446ef7c4b4a 6620 hello_2.10-2ubuntu2.debian.tar.xz
+ 91770e63486c660d803eb38db41a64563d5c0ff2 927 hello_2.10-2ubuntu2.dsc
+ 8496903b1db74b37141fd8c9823fd53890b7222a 6628 hello_2.10-2ubuntu2.debian.tar.xz
  988cfaa1ec9fdda124941432cdf662c3f382e3df 35388 hello-dbgsym_2.10-2ubuntu2_amd64.ddeb
- 81891b17aa95604c8ae46b4105ce735237237e93 5566 hello_2.10-2ubuntu2_amd64.buildinfo
- 50d0e7ebabbf052e040a8681520e18b812fbf2f8 52132 hello_2.10-2ubuntu2_amd64.deb
+ 4d0b49af0c0ac380a8c874b92df1abb6c2724158 5566 hello_2.10-2ubuntu2_amd64.buildinfo
+ c5ecf1a9d1f7cacc02f1a222bc301fdfcd3299d7 52144 hello_2.10-2ubuntu2_amd64.deb
 Checksums-Sha256:
- 28f148b279dd8560d620c658e7bfbadd92b6c3f743966e2e6ecc9b8161dcd327 927 hello_2.10-2ubuntu2.dsc
- 627b58b2afaae232359fd6ae6407ffc93987aeb56cf379d824b8b331590856de 6620 hello_2.10-2ubuntu2.debian.tar.xz
+ 719f614142779eb6f118c6d8cc85fa054a0d067a5db9983ff9dd0a9fb54ab2ac 927 hello_2.10-2ubuntu2.dsc
+ 8cec4bf6bfa5c19defc815a415db802a45f5712c7798543000832017286e14cf 6628 hello_2.10-2ubuntu2.debian.tar.xz
  722ed98aa1fd0def9fdfa61d94f8cb36edbc25b31d4fbf0cca6fdc8f1bc5e1db 35388 hello-dbgsym_2.10-2ubuntu2_amd64.ddeb
- 6f68d3779212b93005a3cfa8e8b2515797de05a64d43aee65538e53d18da0942 5566 hello_2.10-2ubuntu2_amd64.buildinfo
- 2d77823c256a5a36a0c29b6a5dcf1d947c955fe9b3efc0bd0de29ca6b94ed1ab 52132 hello_2.10-2ubuntu2_amd64.deb
+ 3b78082bea92762efc3c1b2bf88433582f4f3cb71aab3d507f1543aed142675f 5566 hello_2.10-2ubuntu2_amd64.buildinfo
+ b0a0217eae8f026edfe67640eb50d1d0e02293b45969e646e9aa13eeb82e2c66 52144 hello_2.10-2ubuntu2_amd64.deb
 Files:
- 6af44c366b7cecc7e4ec5e1f93f375e3 927 devel optional hello_2.10-2ubuntu2.dsc
- 88cb2d1c87b5f6caf24c3686fcc2f245 6620 devel optional hello_2.10-2ubuntu2.debian.tar.xz
+ 0ba37e93f7411654517d733e7722bdb7 927 devel optional hello_2.10-2ubuntu2.dsc
+ 89875f97321c259f4507cd2f7e08f069 6628 devel optional hello_2.10-2ubuntu2.debian.tar.xz
  d409d67333e80e2c023e2052a994ce13 35388 debug optional hello-dbgsym_2.10-2ubuntu2_amd64.ddeb
- effa425da52acfae7edd6cb71a421df0 5566 devel optional hello_2.10-2ubuntu2_amd64.buildinfo
- 7a2a7be8e63d765315d4b96fdb1f1722 52132 devel optional hello_2.10-2ubuntu2_amd64.deb
+ 791dd05dc6e7f0901922780845b76363 5566 devel optional hello_2.10-2ubuntu2_amd64.buildinfo
+ 3bebb85cd4cce06876344abc01daeda8 52144 devel optional hello_2.10-2ubuntu2_amd64.deb
 Original-Maintainer: Santiago Vila <sanvila@debian.org>

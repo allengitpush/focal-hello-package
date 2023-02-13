@@ -12,18 +12,18 @@ Changes:
  .
    * Handle exit code 77 for skipped autopkgtests.
 Checksums-Sha1:
- 450a9969e41a7d0c35a396ff7ee1c9b124e587d3 927 hello_2.10-2ubuntu2.dsc
+ 31819018fb472517b80b444342706158c04bc0a9 927 hello_2.10-2ubuntu2.dsc
  f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
- 8f13fdc078c8d7cec279e3c4439701632828a26a 6616 hello_2.10-2ubuntu2.debian.tar.xz
- 08c25f6d14635c291ad6b94c070fb696d46924ae 5391 hello_2.10-2ubuntu2_source.buildinfo
+ 068e0240f8d3b3ee23b9a32d882499a080c7d719 6624 hello_2.10-2ubuntu2.debian.tar.xz
+ 4aff7cb253d3cb4e72728efec8b1ac80a8a2d7ef 5391 hello_2.10-2ubuntu2_source.buildinfo
 Checksums-Sha256:
- b735c6b8fbd5cf817fa62ab20f798a5aa0fa548ebe51d2a136040b8091472f6f 927 hello_2.10-2ubuntu2.dsc
+ d0edfbc192c06642feb9d3e3e97ba7865d89f542dd7961cc2f9f9453ba541d6e 927 hello_2.10-2ubuntu2.dsc
  31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
- dd3e3b5fe6cda6401e5010e4c0b26051a0c11a5668c652e08f093329242376cf 6616 hello_2.10-2ubuntu2.debian.tar.xz
- 70aa97215b861f4a40e06e6df39cf025949d7a8d49dfd003e3e11c9aa4cbcbba 5391 hello_2.10-2ubuntu2_source.buildinfo
+ de1cda8dd23f300bcd359c7183d3391098711e9378836767baf9d6620a1e85d5 6624 hello_2.10-2ubuntu2.debian.tar.xz
+ 8d8831734aa56b506d729663c0abfe802cd96b05e1f7ff0457064c1be4353842 5391 hello_2.10-2ubuntu2_source.buildinfo
 Files:
- a8c120e19e4fb50c509e41997e6375fc 927 devel optional hello_2.10-2ubuntu2.dsc
+ 0e7ea364ca8ad7a379be96ecc0ac030a 927 devel optional hello_2.10-2ubuntu2.dsc
  6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
- 3283c7420f5a758aec405f26e8505737 6616 devel optional hello_2.10-2ubuntu2.debian.tar.xz
- 36f7ea506bedfc9ca9f19e2789ba33a5 5391 devel optional hello_2.10-2ubuntu2_source.buildinfo
+ de34a2a26fdd6093a9da233070e19c14 6624 devel optional hello_2.10-2ubuntu2.debian.tar.xz
+ 1c7bc8fd0e078b98f31038a4ec3302d3 5391 devel optional hello_2.10-2ubuntu2_source.buildinfo
 Original-Maintainer: Santiago Vila <sanvila@debian.org>

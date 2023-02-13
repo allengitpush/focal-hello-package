@@ -12,11 +12,11 @@ Package-List:
  hello deb devel optional arch=any
 Checksums-Sha1:
  f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
- 242402bd208c6005acd9465b8dbd0446ef7c4b4a 6620 hello_2.10-2ubuntu2.debian.tar.xz
+ 8496903b1db74b37141fd8c9823fd53890b7222a 6628 hello_2.10-2ubuntu2.debian.tar.xz
 Checksums-Sha256:
  31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
- 627b58b2afaae232359fd6ae6407ffc93987aeb56cf379d824b8b331590856de 6620 hello_2.10-2ubuntu2.debian.tar.xz
+ 8cec4bf6bfa5c19defc815a415db802a45f5712c7798543000832017286e14cf 6628 hello_2.10-2ubuntu2.debian.tar.xz
 Files:
  6cd0ffea3884a4e79330338dcc2987d6 725946 hello_2.10.orig.tar.gz
- 88cb2d1c87b5f6caf24c3686fcc2f245 6620 hello_2.10-2ubuntu2.debian.tar.xz
+ 89875f97321c259f4507cd2f7e08f069 6628 hello_2.10-2ubuntu2.debian.tar.xz
 Original-Maintainer: Santiago Vila <sanvila@debian.org>
