@@ -24,6 +24,7 @@ and build result is at /home/pbuilder/focal_result
 sudo pbuilder create --distribution focal
 
 
+
 A-3. put maintainner script in debian folder
 
 cp postinst hello-2.10/debian
