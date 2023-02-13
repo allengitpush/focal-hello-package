@@ -4,20 +4,20 @@ Binary: hello
 Architecture: amd64 source
 Version: 2.10-2ubuntu2
 Checksums-Md5:
- 61f0798b584cdddb11085e489e8a92d3 927 hello_2.10-2ubuntu2.dsc
+ 6af44c366b7cecc7e4ec5e1f93f375e3 927 hello_2.10-2ubuntu2.dsc
  d409d67333e80e2c023e2052a994ce13 35388 hello-dbgsym_2.10-2ubuntu2_amd64.ddeb
- 5a4241b5cb5dc0d671d638132f681785 52052 hello_2.10-2ubuntu2_amd64.deb
+ 7a2a7be8e63d765315d4b96fdb1f1722 52132 hello_2.10-2ubuntu2_amd64.deb
 Checksums-Sha1:
- 9af4d30acd0870b7fd1266e430bbf178dd5f2a0e 927 hello_2.10-2ubuntu2.dsc
+ d8f24f475ecdf3d4ec5f716a0edf0158a363d2bc 927 hello_2.10-2ubuntu2.dsc
  988cfaa1ec9fdda124941432cdf662c3f382e3df 35388 hello-dbgsym_2.10-2ubuntu2_amd64.ddeb
- e70cc44d753e8108641aad1b36f78218d905a712 52052 hello_2.10-2ubuntu2_amd64.deb
+ 50d0e7ebabbf052e040a8681520e18b812fbf2f8 52132 hello_2.10-2ubuntu2_amd64.deb
 Checksums-Sha256:
- 4fd6ef83815b7037cb0d53d5c3e2d27efef444af57708fd31ef33e7f1e6c5861 927 hello_2.10-2ubuntu2.dsc
+ 28f148b279dd8560d620c658e7bfbadd92b6c3f743966e2e6ecc9b8161dcd327 927 hello_2.10-2ubuntu2.dsc
  722ed98aa1fd0def9fdfa61d94f8cb36edbc25b31d4fbf0cca6fdc8f1bc5e1db 35388 hello-dbgsym_2.10-2ubuntu2_amd64.ddeb
- 3a109be87165d157969465f78ed6efc87bc6b1ce95ecdaa2ec6e965f78924d01 52052 hello_2.10-2ubuntu2_amd64.deb
+ 2d77823c256a5a36a0c29b6a5dcf1d947c955fe9b3efc0bd0de29ca6b94ed1ab 52132 hello_2.10-2ubuntu2_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 12 Feb 2023 11:24:16 +0000
+Build-Date: Mon, 13 Feb 2023 12:05:49 +0000
 Build-Path: /build/hello-2.10
 Installed-Build-Depends:
  autoconf (= 2.69-11.1),
