@@ -3,4 +3,6 @@ set -e
 
 echo "this is a test from Allen Chang"
 
+#DEBHELPER#
+
 exit 0
