@@ -7,7 +7,7 @@ sudo apt install build-essential fakeroot devscripts git git-buildpackage debhel
 
 sudo apt install ubuntu-dev-tools
 
-
+cp testing.sh /usr/bin
 
 
 A. To get and modify package
