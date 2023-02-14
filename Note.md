@@ -9,7 +9,7 @@ Things to be noted is described here
 
 2. The changelog of debian folder of the hello package shows that the last change happens on eoan distribution,
 
-   we have receive a mail from launchpad offical that:
+   we have receive a mail from launchpad official that:
 
    Rejected:
    eoan is obsolete and will not accept new uploads.
