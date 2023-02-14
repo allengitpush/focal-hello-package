@@ -54,7 +54,7 @@ if success , you would see your focal_result folder is same as focal_result fold
 
 
 
-B. If maintainer scipt is not automatically included in created .deb , include it manually in focal_result folder
+B. If maintainer scipt is not automatically included in created .deb , include it manually, operated in focal_result folder
 
         mkdir mydeb
 
