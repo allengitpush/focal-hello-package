@@ -37,9 +37,7 @@ A-4 to pack maintainer scripts into hello_2.10-2ubuntu2.debian.tar.xz , build re
         
 (generating gpg key is according to this reference: https://help.ubuntu.com/community/GnuPrivacyGuardHowto)
        
-using gpg key to sign is for uploading these building result to ppa , if the result is for local test , signing is not required , use command as 
-        
-follows:
+using gpg key to sign is for uploading these building result to ppa , if the result is for local test , signing is not required , then you can use command as follows:
         
         dpkg-buildpackage -uc -us
 
