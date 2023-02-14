@@ -49,7 +49,7 @@ A-5. cd to the hello-2.10 folder then build, use gernerated base.tgz as base and
 
 
 
-B. If maintainer scipt is not included in created .deb , inclde it manually in focal_result folder
+B. If maintainer scipt is not included in created .deb , include it manually in focal_result folder
 
         mkdir mydeb
 
