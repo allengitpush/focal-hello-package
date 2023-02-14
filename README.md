@@ -26,7 +26,7 @@ and /home/pbuilder/focal_result is created to locate build result
 
 A-3. put maintainner script in debian folder
 
-        cp postinst hello-2.10/debian
+        cp postinst hello-2.10/debian (as this : https://github.com/allengitpush/focal-hello-package/blob/main/hello/hello-2.10/debian/postinst)
 
 
 A-4 to pack maintainer scripts into hello_2.10-2ubuntu2.debian.tar.xz , build result is based on it (no space between -k and "your_gpg_key")
