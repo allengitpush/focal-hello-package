@@ -48,6 +48,9 @@ A-5. cd to the hello-2.10 folder then build, use gernerated base.tgz as base and
 
 
 
+if success , you would see the folders as focal_result folder in this repository
+
+
 
 B. If maintainer scipt is not included in created .deb , include it manually in focal_result folder
 
