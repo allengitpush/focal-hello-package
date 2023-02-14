@@ -44,7 +44,7 @@ follows:
         dpkg-buildpackage -uc -us
 
 
-A-5. cd to the hello-2.10 folder then build, use gernerated base.tgz as base and the result is gererated at specified location, .deb file in focal_result/ folder
+A-5. cd to the hello-2.10 folder then build, use gernerated base.tgz as base and the result is gererated at specified location, .deb file is in focal_result/ folder
 
         sudo pbuilder build --basetgz /var/cache/pbuilder/base.tgz --buildresult /home/allen/pbuilder/focal_result/ ../hello_2.10-2ubuntu2.dsc
 
