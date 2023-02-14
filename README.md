@@ -48,7 +48,7 @@ A-5. cd to the hello-2.10 folder then build, use gernerated base.tgz as base and
 
 
 
-if success , you would see the your focal_result folder is same as focal_result folder in this repository
+if success , you would see your focal_result folder is same as focal_result folder in this repository
 
 
 
