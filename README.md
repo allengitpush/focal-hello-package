@@ -29,9 +29,18 @@ A-3. put maintainner script in debian folder
         cp postinst hello-2.10/debian
 
 
-A-4 to pack maintainer scripts into hello_2.10-2ubuntu2.debian.tar.xz , build result is based on it
+A-4 to pack maintainer scripts into hello_2.10-2ubuntu2.debian.tar.xz , build result is based on it (no space between -k and "your_gpg_key")
 
-        dpkg-buildpackage --no-sign  -S -sa -rfakeroot
+        dpkg-buildpackage -k"your_gpg_key"  -S -sa -rfakeroot
+        
+        (generate gpg key according reference: https://help.ubuntu.com/community/GnuPrivacyGuardHowto)
+        
+        
+        using gpg ket to sign is for uploading these building result to ppa , if the result is for local test , signing is not required , use command as 
+        
+        follows:
+        
+        dpkg-buildpackage -uc -us
 
 
 A-5. cd to the hello-2.10 folder then build, use gernerated base.tgz as base and the result is gererated at specified location, .deb file in focal_result/ folder
